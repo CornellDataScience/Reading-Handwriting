@@ -1,2 +1,2 @@
 # Reading-Handwriting
-Help
+The ReadingHandwritingFinal.ipynb is the cleaned and formatted version of Reading_Handwriting.ipynb
